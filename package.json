@@ -1,6 +1,6 @@
 {
   "name": "taskmodule__svgiconfont",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "GulpTaskModule to create a iconfont from svg, works good with async.js",
   "main": "index.js",
   "scripts": {
